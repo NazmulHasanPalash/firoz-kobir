@@ -1,0 +1,22 @@
+.link-style {
+    color: black !important;
+}
+
+.photo-style img {
+    width: 30%;
+    border-radius: 30px;
+}
+
+.text-color {
+    background-color: black !important;
+
+}
+
+.icon-style {
+    width: 2%;
+}
+
+.second-icon {
+    width: 20%;
+
+}
